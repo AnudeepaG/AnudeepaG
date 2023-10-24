@@ -5,15 +5,13 @@ C<h1 align="center">Hello 👋,I am Smart Coder</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SmartCoder" alt="SmartCoder" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,Ethical Hacking**
-
+- 🌱 I’m currently learning **Web Development**
 
 
 - ⚡ Fun fact **I love to spread fun around myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 
 </p>
 
