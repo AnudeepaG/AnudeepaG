@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anudeepa Giri</h1>
-<h3 align="center">A quick and enthusiastic learner exploring frontend development!!</h3>
+<h3 align="center">Crafting digital experiences, one line of code at a time!🎨💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepag&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepag" /> </p>
 
