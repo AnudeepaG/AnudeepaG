@@ -1,4 +1,3 @@
-# Personal
 <h1 align="center">Hi 👋, I'm Anudeepa Giri</h1>
 <h3 align="center">A quick and enthusiastic learner exploring frontend development!!</h3>
 
