@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anudeepa Giri</h1>
-<h3 align="center">The only things that might stop me? An exceptionally compelling bug report or a very strong coffee ☕. Until then, chasing bugs on! 🚀</h3>
+<h3 align="center">Only things that might stop me? An exceptionally compelling bug report or a very strong coffee ☕. Until then, chasing bugs on! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepag&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepag" /> </p>
 
