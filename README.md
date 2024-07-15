@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anudeepa Giri</h1>
-<h3 align="center">Crafting digital experiences, one line of code at a time!🎨💻</h3>
+<h3 align="center">The only things that might stop me? An exceptionally compelling bug report or a very strong coffee ☕. Until then, chasing bugs on! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepag&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepag" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anudeepag" alt="anudeepag" /></a> </p>
 
-- 🌱 I’m currently learning **JS,DSA,ML**
+- 🌱 I’m currently learning **Open Source, DSA, Generative AI, LLM**
 
-- 💬 Ask me about **HTML,CSS,JS,C++,OOPS**
+- 💬 Ask me about **HTML, CSS, JS, C++, OOPS, ML**
 
 - 📫 How to reach me **anudeepagiri@gmail.com**
 
-- ⚡ Fun fact **I love e-shopping and singing apart from coding**
+- ⚡ Fun fact **My superpower? Turning 'just browsing' into 'why do I have 5 packages arriving tomorrow?!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
