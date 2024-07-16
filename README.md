@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anudeepa </h1>
 <!--<h3 align="center">Only things that might stop me? An exceptionally compelling bug report or a robust coffee ☕. Until then, chasing bugs on! 🚀</h3>-->
-<h3 align="center">Code finally works its magic after 2000 years of frustration 🕰️, always when you least expect it ✨</h3>
+<h3 align="center">Code finally works its magic after centuries of frustration 🕰️ when you least expect it!✨</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeepag&label=Profile%20views&color=0e75b6&style=flat" alt="anudeepag" /> </p>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Open Source, DSA, Generative AI, LLM**
 
-- 💬 Ask me about **HTML, CSS, JS, C++, OOPS, ML**
+- 💬 Ask me about **HTML, CSS, JS, C++, DSA, OOPS, ML**
 
 - 📫 How to reach me **anudeepagiri@gmail.com**
 
-- ⚡ Fun fact **My superpower? Turning 'just browsing' into 'why do I have 5 packages arriving tomorrow?!**
+- ⚡ Fun fact **I love e shopping apart from coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
