@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anudeepagiri@gmail.com**
 
-- ⚡ Fun fact **I love e shopping apart from coding**
+- ⚡ Fun fact **Shopping is my therapy:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
