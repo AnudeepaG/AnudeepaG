@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anudeepag" alt="anudeepag" /></a> </p>
 
-- 🌱 I’m currently learning **Open Source, DSA, Generative AI, LLM**
+- 🌱 I’m currently learning **Open Source, DSA**
 
 - 💬 Ask me about **HTML, CSS, JS, C++, DSA, OOPS, ML**
 
