@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anudeepa </h1>
+<h1 align="center">Hello 👋, I'm Anudeepa </h1>
 <!--<h3 align="center">Only things that might stop me? An exceptionally compelling bug report or a robust coffee ☕. Until then, chasing bugs on! 🚀</h3>-->
 <h3 align="center">Code finally works its magic after centuries of frustration 🕰️ when you least expect it!✨</h3>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anudeepag" alt="anudeepag" /></a> </p>
 
-- 🌱 I’m currently learning **Open Source, DSA**
+- 🌱 I’m currently learning **DSA, Generative AI**
 
 - 💬 Ask me about **HTML, CSS, JS, C++, DSA, OOPS, ML**
 
 - 📫 How to reach me **anudeepagiri@gmail.com**
 
-- ⚡ Fun fact **Shopping is my therapy:)**
+- ⚡ Fun fact **Shopping is my therapy:))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
