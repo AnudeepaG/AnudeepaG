@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anudeepagiri@gmail.com**
 
-- ⚡ Fun fact **Shopping is my therapy:))**
+- ⚡ Fun fact **Trained a neural network… just to sort my Spotify playlists:))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
